@@ -1,5 +1,5 @@
 //
-//  MACViewController.h
+//  MACTableViewController.h
 //  UITableViewControllerChallengeSolution
 //
 //  Created by Manuel Alvarez on 3/5/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MACViewController : UIViewController
+@interface MACTableViewController : UITableViewController
 
 @end
